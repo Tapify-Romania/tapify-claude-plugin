@@ -1,0 +1,16 @@
+{
+  "name": "tapify",
+  "displayName": "Tapify",
+  "version": "0.1.0",
+  "description": "Read authorized Tapify sales, inventory, menus, cards, customers, operators, and venue data through the Tapify MCP connector.",
+  "author": {
+    "name": "Tapify SRL",
+    "email": "contact@tapify.ro",
+    "url": "https://tapify.ro"
+  },
+  "homepage": "https://tapify.ro",
+  "license": "MIT",
+  "icon": "./assets/logo.svg",
+  "privacyPolicyUrl": "https://tapify.ro/en/privacy/",
+  "termsOfServiceUrl": "https://tapify.ro/en/terms/"
+}
